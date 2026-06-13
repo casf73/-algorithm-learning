@@ -2,7 +2,7 @@
 // Created by HY on 2025/10/14.
 //
 /*前缀和是用来区间求和的*/
-/* 前缀和
+
 #include <iostream>
 #include <vector>
 
@@ -25,7 +25,7 @@ int main(){
         printf("%d\n",prefix_sum[r] - prefix_sum[l - 1]);
     }
 }
-*/
+
 /* 二维前缀和
 #include <iostream>
 #include <vector>
